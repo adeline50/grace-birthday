@@ -1,14 +1,14 @@
 import { useEffect, useState } from 'react'
 
-const LETTER = `To my dearest sister,
+const LETTER = `Happy Birthday to an amazing sister! 🎂💐
+May this new chapter of your life bring you more reasons to smile,
+more beautiful memories to keep, and more dreams turning into reality.
+You deserve happiness, peace, success and all the beautiful things life has to offer.
+Keep shining, keep believing in yourself, and never forget how special you are.
+I am grateful to have you as my sister, and I hope your birthday is as beautiful
+and unforgettable as you are.
 
-Somewhere between the little girl in these photos and the woman you are today, you became my favorite person in the whole world. This page can't hold every reason you matter, but it can hold the ones that matter most: your laugh, your gentle heart, your stubborn, beautiful hope.
-
-As you turn another page in your story, know this — I am, and will always be, in your corner. Through everything.
-
-Happy birthday, Grace. Shine as bright as you always do.
-
-Forever your sister, with all my love`
+With lots of love, your sibling ❤️`
 
 function useTypewriter(text, active, speed = 24) {
   const [count, setCount] = useState(0)

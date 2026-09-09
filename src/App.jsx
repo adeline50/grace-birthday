@@ -6,6 +6,10 @@ import photo3 from './assets/IMG-20260505-WA0027.jpg'
 import photo4 from './assets/IMG_20260605_110238 (1).jpg'
 import photo5 from './assets/IMG_20260605_110222 (1).jpg'
 import photo6 from './assets/IMG_20260714_142208.jpg'
+import photo7 from './assets/IMG-20260818-WA0002.jpg'
+import photo8 from './assets/IMG-20260909-WA0015.jpg'
+import photo9 from './assets/IMG-20260909-WA0016.jpg'
+import photo10 from './assets/IMG-20260909-WA0017.jpg'
 import { Balloons, Confetti, Stars } from './Fx'
 import FireworksOverlay from './Fireworks'
 import Album from './Album'
@@ -23,6 +27,10 @@ const photos = [
   { src: photo4, caption: 'Growing up, growing radiant' },
   { src: photo5, caption: 'Turning quiet days into memories' },
   { src: photo6, caption: 'And today — the most beautiful you' },
+  { src: photo7, caption: 'Magic in the everyday' },
+  { src: photo8, caption: 'That glow, that grace ✨' },
+  { src: photo9, caption: 'Brightest smile in every room' },
+  { src: photo10, caption: 'Latest look, same beautiful you' },
 ]
 
 const CHAPTERS = [

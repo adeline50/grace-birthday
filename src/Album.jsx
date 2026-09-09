@@ -16,7 +16,7 @@ export default function Album({ photos }) {
   return (
     <section id="chapter-album" className="album-section">
       <h2 className="section-title">How far you have come</h2>
-      <p className="section-sub">Six little chapters of you, youngest to today.</p>
+      <p className="section-sub">Ten little chapters of you, youngest to today.</p>
 
       <div className="album">
         <div className="slideshow">
