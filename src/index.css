@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&family=Dancing+Script:wght@600;700&family=Quicksand:wght@400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Quicksand', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  color: #40284a;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+}
